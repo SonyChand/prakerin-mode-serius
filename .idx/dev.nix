@@ -32,8 +32,6 @@
       };
       # Runs when the workspace is (re)started
       onStart = {
-        # Example: start a background task to watch and re-build backend code
-        run-index = "node index.js";
       };
     };
   };
